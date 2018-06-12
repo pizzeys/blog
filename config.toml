@@ -1,0 +1,24 @@
+baseurl = "https://pizzey.me"
+languageCode = "en-gb"
+title = "Sam Pizzey"
+theme = "kiss"
+copyright = "&copy; <a href=\"https://twitter.com/mopman\">Sam Pizzey</a> 2018"
+Paginate = 5
+enableRobotsTXT = true
+
+[params.assets]
+customCSS = ["css/custom.css"]
+
+[params.info]
+enableSocial = true
+poweredby = false
+related = true
+
+[params.social]
+twitter = "mopman"
+github = "pizzeys"
+email = "sam@pizzey.me"
+linkedin = "pizzeys"
+
+[taxonomies]
+tag ="tags"
