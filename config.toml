@@ -1,5 +1,4 @@
 baseurl = "https://pizzey.me"
-publishDir = "docs"
 languageCode = "en-gb"
 title = "Sam Pizzey"
 theme = "kiss"
