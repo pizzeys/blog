@@ -1,6 +1,6 @@
 ---
 title: "Protecting from the CPanel Ransomware That Doesn't Exist Yet"
-date: 2018-06-12T17:11:33+01:00
+date: 2017-01-15T17:11:33+01:00
 ---
 
 Ransomware just ain’t what it used to be. From the now-relatively-Paleolithic Cryptolocker until today we’ve seen the criminals who run these operations evolve to meet the responses brought against them - from [offering free decryption if you infect others](https://www.wired.com/2016/12/popcorn-time-ransomware/), to [exploiting insecure MongoDB instances](http://www.computerworld.com/article/3157766/linux/mongodb-ransomware-attacks-and-lessons-learned.html) they have shown they’re totally willing to find new avenues to get an edge in this lucrative business.
